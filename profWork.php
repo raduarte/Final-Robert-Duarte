@@ -11,7 +11,6 @@
     </head>
     
     <body id="body">
-        <h1 class="pageTitle">Professional Work</h1>
         
         
         <nav class="navbar" role="navigation">
@@ -38,4 +37,6 @@
                     <!-- /.navbar-collapse -->
                 </div>
         </nav>
+        <h1 class="pageTitle">Professional Work</h1>
+
     </body>

@@ -1,13 +1,17 @@
 #body{
     width: 90%;
-    margin: auto;
+    margin:auto;
 }
 .pageTitle{
-    margin:auto;
+    
+    margin-right:auto;
     width:50%;
 }
 
-ol {
+.nav {
+  position: fixed;
+  width: 100%;
+  top:0;
   list-style-type: none;
   margin: 0;
   padding: 0;
@@ -15,12 +19,12 @@ ol {
   background-color: #333;
 }
 
-li {
+.nav li {
   float: left;
   width: 25%
 }
 
-li a {
+.nav li a, .courseList li a {
   display: block;
   color: white;
   text-align: center;
@@ -28,9 +32,16 @@ li a {
   text-decoration: none;
 }
 
-li a:hover {
+.nav li a:hover, .courseList li:hover {
   background-color: #111;
 }
 .active{
     background-color:gray;
+}
+.courseList li{
+  background-color: #333;
+  margin:5px;
+}
+.courseList{
+  list-style-type:none;
 }

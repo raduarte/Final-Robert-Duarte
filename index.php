@@ -12,7 +12,6 @@
 
     
     <body id="body">
-        <h1 class="pageTitle">Robert Duarte</h1>
 
     
         <nav class="navbar" role="navigation">
@@ -39,6 +38,9 @@
                     <!-- /.navbar-collapse -->
                 </div>
         </nav>
+        
+        <h1 class="pageTitle">Robert Duarte</h1>
+
         
         
         <h2>About Me</h2>

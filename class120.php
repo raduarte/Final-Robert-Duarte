@@ -6,11 +6,12 @@
         <meta charset="utf-8">
         <meta name="author" content="Robert Duarte">
         <meta name="description" content="A site to hold all my course work for CS.">
-        <link rel='stylesheet' href='final.css'>
-            
+        <link rel='stylesheet' href='final.css'>    
+        
     </head>
     
     <body id="body">
+        
         
         
         <nav class="navbar" role="navigation">
@@ -37,17 +38,6 @@
                     <!-- /.navbar-collapse -->
                 </div>
         </nav>
-        
-        <h1 class="pageTitle">Courses</h1>
-
-        
-        <ul class="courseList">
-            <li><a href="class142.php">CS 142: Advanced Web Design</a></li>
-            <li><a href="class008.php">CS 008: Basic Web Development</a></li>
-            <li><a href="class110.php">CS 110: Intermediate Programming</a></li>
-            <li><a href="class120.php">CS 120: Advanced Programming</a></li>
-            <li><a href="class205.php">CS 205: Software Engineering</a></li>
-            
-        </ul>
-        
+        <h1 class="pageTitle">CS 120: Advanced Programming</h1>
+        <a href="courses.php">Back to Courses</a>
     </body>
