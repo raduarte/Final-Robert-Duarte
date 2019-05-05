@@ -27,6 +27,7 @@
                     </div>
                     <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                         <ol class="nav navbar-nav">
+                            <li id="topBar">Robert Duarte</li>
                             <li><a href="index.php">Home</a></li>
                             <li class="active"><a href="courses.php">Courses</a></li>
                             <li><a href="profWork.php">Professional Work</a></li> 
@@ -42,11 +43,21 @@
 
         
         <ul class="courseList">
-            <li><a href="class142.php">CS 142: Advanced Web Design</a></li>
-            <li><a href="class008.php">CS 008: Basic Web Development</a></li>
-            <li><a href="class110.php">CS 110: Intermediate Programming</a></li>
-            <li><a href="class120.php">CS 120: Advanced Programming</a></li>
-            <li><a href="class205.php">CS 205: Software Engineering</a></li>
+            <li><a href="class142.php">CS 142: Advanced Web Design</a>
+                <p>Short description, lalalalalallalalallalalaalalalallalalallalalallalalallalal</p>
+            </li>
+            <li><a href="class008.php">CS 008: Basic Web Development</a>
+                <p>Short description, lalalalalallalalallalalaalalalallalalallalalallalalallalal</p>
+            </li>
+            <li><a href="class110.php">CS 110: Intermediate Programming</a>
+                <p>Short description, lalalalalallalalallalalaalalalallalalallalalallalalallalal</p>
+            </li>
+            <li><a href="class120.php">CS 120: Advanced Programming</a>
+                <p>Short description, lalalalalallalalallalalaalalalallalalallalalallalalallalal</p>
+            </li>
+            <li><a href="class205.php">CS 205: Software Engineering</a>
+                <p>Short description, lalalalalallalalallalalaalalalallalalallalalallalalallalal</p>
+            </li>
             
         </ul>
         

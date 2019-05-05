@@ -1,10 +1,10 @@
 #body{
-    width: 90%;
+    width: 100%;
     margin:auto;
 }
 .pageTitle{
-    
-    margin-right:auto;
+    margin-top: 90px;
+    margin-left: 5px;
     width:50%;
 }
 
@@ -33,15 +33,37 @@
 }
 
 .nav li a:hover, .courseList li:hover {
-  background-color: #111;
+  background-color: #cecece;
 }
 .active{
-    background-color:gray;
+  background-color:#111;
+  box-shadow: 0px 0px 5px 5px #888888;
 }
+
 .courseList li{
   background-color: #333;
-  margin:5px;
+  margin:50px 0px 0px 0px;
 }
 .courseList{
+  margin-right: 40px;
   list-style-type:none;
+}
+#topBar{
+  font-size: 50px;
+  padding: 0px 0px 10px 10px;
+  background-color: #111;
+  float: none;
+  width: 100%;
+  color: white;
+  height: 50px;
+}
+.courseList li p{ 
+  width: 100%;
+  text-align: center;
+  display: none;
+  padding: 5px;
+}
+
+.courseList li:hover p{
+  display: block;
 }

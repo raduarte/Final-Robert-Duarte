@@ -13,7 +13,6 @@
     <body id="body">
         
         
-        
         <nav class="navbar" role="navigation">
                 <div class="navLinks">
 
@@ -28,6 +27,7 @@
                     </div>
                     <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                         <ol class="nav navbar-nav">
+                            <li id="topBar">Robert Duarte</li>
                             <li><a href="index.php">Home</a></li>
                             <li class="active"><a href="courses.php">Courses</a></li>
                             <li><a href="profWork.php">Professional Work</a></li> 
