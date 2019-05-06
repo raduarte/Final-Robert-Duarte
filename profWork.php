@@ -42,6 +42,37 @@
         
         <hr class="breaks">
         
+        <ol class="workExp">
+                    <li class="job">
+                        <span class="dates">present</span>
+                        <a href="https://www.baesystems.com/en/home" class="company">BAE Systems</a>,  
+                        
+
+                        <span class="jobtitle">Software Intern III</span>
+
+                        <p class="description">Working with senior software engineers on new and cutting
+                            edge technology, responsible for the testing and debugging of advanced software
+                            used by the government and military.</p>
+                    </li><!-- end of this job -->
+
+                    
+                    <li class="job">
+                        <span class="dates">Summer 2018</span>
+                        <a href="https://www.baesystems.com/en/home" class="company">BAE Systems</a>,  
+                        
+
+                        <span class="jobtitle">Technical Intern II</span>
+
+                        <p class="description">Worked with engineers, factory managers, and project managers to ensure all devices
+                            in the New Hampshire and Massachusetts area were up to DFARS compliance.
+                            Part of a team responsible for the surveillance of 1,500 devices in NH alone.</p>
+                    </li>
+                    <!-- past other jobs here descending by dates -->
+
+
+                </ol>
+        
+        
         <footer class="footer">
             <hr class="breaks">
             <p>Page made by Robert Duarte</p>
