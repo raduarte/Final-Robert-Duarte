@@ -40,7 +40,7 @@
                 </div>
         </nav>
         
-        <h1 class="pageTitle">Home</h1>
+        <h1 class="pageTitle">My Portfolio</h1>
         
         <hr class="breaks">
         

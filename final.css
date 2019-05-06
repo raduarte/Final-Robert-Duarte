@@ -100,11 +100,11 @@
 
 .contact{
     position: fixed;
-    right: 0;
-    top: 0;
+    right: 5px;
+    top: 5px;
     display: block;
     text-decoration: none;
-  padding: 2px;
+  padding: 4px;
   background-color: #333;
   color: white;
   border: 2px solid #cecece;
