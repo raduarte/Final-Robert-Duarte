@@ -2,7 +2,7 @@
 <HTML lang="en">
 
     <head>
-        <title>CS 142 Final</title>
+        <title>Robert Duarte Portfolio</title>
         <meta charset="utf-8">
         <meta name="author" content="Robert Duarte">
         <meta name="description" content="A site to hold all my course work for CS.">
