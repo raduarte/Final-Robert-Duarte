@@ -39,5 +39,17 @@
                 </div>
         </nav>
         <h1 class="pageTitle">Professional Work</h1>
+        
+        <hr class="breaks">
+        
+        <footer class="footer">
+            <hr class="breaks">
+            <p>Page made by Robert Duarte</p>
+            <p>Last update: 5/6/19</p>
+            
+        </footer>
+        <a href="contact.php" class="contact">Contact me!</a>
+        
+        
 
     </body>

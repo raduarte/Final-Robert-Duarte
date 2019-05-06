@@ -6,7 +6,12 @@
 .pageTitle{
     margin-top: 90px;
     margin-left: 5px;
-    width:50%;
+    width: 50%;
+  border: 3px solid black;
+  border-bottom: 0px;
+  border-top: 0px;
+  border-right: 0px;
+  padding-left:4px;
 }
 
 .nav {
@@ -35,12 +40,9 @@
 
 .nav li a:hover {
   box-shadow: 0px 0px 5px 5px #888888;
-
+  background-color: #111;
 }
 
-.courseList li:hover{
-
-}
 
 
 .active{
@@ -48,6 +50,9 @@
 }
 .active a{
   color: #111 !important;
+}
+.active:hover a{
+  color: white !important;
 }
 
 .courseList li{
@@ -97,4 +102,34 @@
   background-color: #cecece; 
   border: 2px solid #cecece;
   color: #111;
+}
+
+.homePic{
+  width: 500px;
+  height: auto;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 20px;
+  margin-bottom:20px;
+  border-radius: 10px;
+  box-shadow: 0px 0px 5px 5px #a3a3a3;
+}
+
+.abtMe{
+  width: 85%;
+  margin: auto;
+  border: 3px solid #111;
+  padding-left: 5px;
+  border-right: 0px;
+  border-top:0px;
+  border-bottom: 0px;
+  
+}
+.breaks{
+  margin-top: 50px;
+  margin-bottom: 50px;
+  width:90%;
+  margin-left: auto;
+  margin-right: auto;
 }

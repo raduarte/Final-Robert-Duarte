@@ -40,19 +40,35 @@
                 </div>
         </nav>
         
-        <h1 class="pageTitle">Robert Duarte</h1>
+        <h1 class="pageTitle">Home</h1>
+        
+        <hr class="breaks">
+        
 
         
-        
+        <div class="abtMe">
         <h2>About Me</h2>
         <article class="aboutMe">I am a Junior at UVM studying computer science. I am from Amherst, New Hampshire. I grew up loving 
         hockey, water sports, and winter. I chose to come to UVM because I love New England, the area is beautiful, 
         and I thought it was a great school for me. Throughout my years here I have completed many projects, most of 
         which are now sitting on my laptop never to be seen again. I plan to change that. This site is my 
         final project for CS 142, and it will act as a portfolio for all of my CS work done while at UVM. </article>
+            
+        </div>
+        
+        <img class="homePic" src="images/homePic.PNG" alt="Me with iguana">
         
                
-
+        <footer class="footer">
+            <hr class="breaks">
+            <p>Page made by Robert Duarte</p>
+            <p>Last update: 5/6/19</p>
+            
+        </footer>
         <a href="contact.php" class="contact">Contact me!</a>
+        
+        
     </body>
+    
+    
 </html>

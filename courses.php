@@ -41,6 +41,9 @@
         
         <h1 class="pageTitle">Courses</h1>
 
+        <hr class="breaks">
+
+
         
         <ul class="courseList">
             <li><a href="class142.php">CS 142: Advanced Web Design</a>
@@ -67,6 +70,13 @@
             
         </ul>
         
+        
+        <footer class="footer">
+            <hr class="breaks">
+            <p>Page made by Robert Duarte</p>
+            <p>Last update: 5/6/19</p>
+            
+        </footer>
         <a href="contact.php" class="contact">Contact me!</a>
         
     </body>

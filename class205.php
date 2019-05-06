@@ -41,9 +41,22 @@
         </nav>
         <h1 class="pageTitle">CS 205: Software Engineering</h1>
         
+        <hr class="breaks">
+        
         <p>talk about the course</p>
         
         <img src="205final1.png" alt="">
         
         <a href="courses.php">Back to Courses</a>
+        
+        
+        <footer class="footer">
+            <hr class="breaks">
+            <p>Page made by Robert Duarte</p>
+            <p>Last update: 5/6/19</p>
+            
+        </footer>
+        <a href="contact.php" class="contact">Contact me!</a>
+        
+        
     </body>
