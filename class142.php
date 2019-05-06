@@ -40,5 +40,9 @@
         </nav>
         
         <h1 class="pageTitle">CS 142: Advanced Web Design</h1>
+        
+        <p>Talk about the course</p>
+        
+        <a href="../../sitemap.php">Course Sitemap</a>
         <a href="courses.php">Back to Courses</a>
     </body>

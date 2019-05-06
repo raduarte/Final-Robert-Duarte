@@ -40,5 +40,10 @@
                 </div>
         </nav>
         <h1 class="pageTitle">CS 120: Advanced Programming</h1>
+        
+        <p>talk about the course</p>
+        
+        <img src="120final1.png" alt="">
+        
         <a href="courses.php">Back to Courses</a>
     </body>

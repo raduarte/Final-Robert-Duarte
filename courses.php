@@ -44,21 +44,29 @@
         
         <ul class="courseList">
             <li><a href="class142.php">CS 142: Advanced Web Design</a>
-                <p>Short description, lalalalalallalalallalalaalalalallalalallalalallalalallalal</p>
+                <p>A class focused around advanced CSS and web design conventions.
+                    <br>Final Project: This website!</p>
             </li>
             <li><a href="class008.php">CS 008: Basic Web Development</a>
-                <p>Short description, lalalalalallalalallalalaalalalallalalallalalallalalallalal</p>
+                <p>The introductory course in web development, focusing on html,
+                    basic CSS, and php. <br>Final Project: Papa Mike's 'Za</p>
             </li>
             <li><a href="class110.php">CS 110: Intermediate Programming</a>
-                <p>Short description, lalalalalallalalallalalaalalalallalalallalalallalalallalal</p>
+                <p>A course taught in Java, focused on object oriented programming.
+                    <br>Final Project: Tetris</p>
             </li>
             <li><a href="class120.php">CS 120: Advanced Programming</a>
-                <p>Short description, lalalalalallalalallalalaalalalallalalallalalallalalallalal</p>
+                <p>A course taught in C++, introducing the ideas of complexity 
+                    and efficient programming. <br>Final Project: Runner</p>
             </li>
             <li><a href="class205.php">CS 205: Software Engineering</a>
-                <p>Short description, lalalalalallalalallalalaalalalallalalallalalallalalallalal</p>
+                <p>A course teaching students how to develop a large piece of software, 
+                introducing development processes such as agile and waterfall.
+                <br>Final Project: Blokus</p>
             </li>
             
         </ul>
+        
+        <a href="contact.php" class="contact">Contact me!</a>
         
     </body>

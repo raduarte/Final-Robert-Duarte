@@ -53,5 +53,6 @@
         
                
 
+        <a href="contact.php" class="contact">Contact me!</a>
     </body>
 </html>

@@ -40,5 +40,10 @@
                 </div>
         </nav>
         <h1 class="pageTitle">CS 205: Software Engineering</h1>
+        
+        <p>talk about the course</p>
+        
+        <img src="205final1.png" alt="">
+        
         <a href="courses.php">Back to Courses</a>
     </body>
