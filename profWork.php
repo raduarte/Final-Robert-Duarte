@@ -27,11 +27,11 @@
                     </div>
                     <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                         <ol class="nav navbar-nav">
-                            <li id="topBar">Robert Duarte</li>
+                            <li id="topBar"><a href="index.php">Robert Duarte</a></li>
                             <li><a href="index.php">Home</a></li>
                             <li><a href="courses.php">Courses</a></li>
                             <li class="active"><a href="profWork.php">Professional Work</a></li> 
-                            <li><a href="addWork.php">Additional Work</a></li>
+                            
                            
                         </ol>
                     </div>
@@ -44,7 +44,7 @@
         
         <ol class="workExp">
                     <li class="job">
-                        <span class="dates">present</span>
+                        <span class="dates">Present</span>
                         <a href="https://www.baesystems.com/en/home" class="company">BAE Systems</a>,  
                         
 
@@ -66,6 +66,19 @@
                         <p class="description">Worked with engineers, factory managers, and project managers to ensure all devices
                             in the New Hampshire and Massachusetts area were up to DFARS compliance.
                             Part of a team responsible for the surveillance of 1,500 devices in NH alone.</p>
+                    </li>
+                    
+                    
+                    <li class="job" id="CNC"> 
+                        <span class="dates">2017</span>
+                        <a href="https://www.cncauto.com/" class="company">CNC Automation</a>, 
+
+                        <span class="jobtitle">C++ Developer.</span>
+
+                        <p class="description">
+                            Modified an existing Windows MFC application.  Added UI controls and modified gcode
+                            generation.
+                        </p>
                     </li>
                     <!-- past other jobs here descending by dates -->
 
