@@ -45,10 +45,16 @@
         <hr class="breaks">
 
         
-        <p>Talk about the course</p>
+        <p class="courseDescription">CS 142 is the follow-up course to CS 008.
+            Similar to 008, it teaches website development. This course, however,
+            focuses more on CSS, web usability, and the overall process of designing
+            high quality websites.
+        </p>
         
-        <a href="../../sitemap.php">Course Sitemap</a>
-        <a href="courses.php">Back to Courses</a>
+        <a class="sitemap" href="../../sitemap.php">Course Sitemap</a>
+        <p class="sitemapDesc">This is the sitemap for the course. It holds links to every project done throughout the semester.</p>
+        
+        <a class="backCourse" href="courses.php">Back to Courses</a>
         
         <footer class="footer">
             <hr class="breaks">

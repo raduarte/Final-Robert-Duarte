@@ -42,7 +42,12 @@
         <h1 class="pageTitle">Courses</h1>
 
         <hr class="breaks">
-
+        
+        <p class="coursesIntro">
+            Here are some of the courses I have taken at UVM. I chose to display these courses because they
+            have a final project worth showing. Some of these projects were made in groups, some were made alone, 
+            but they all represent me as a student!
+        </p>
 
         
         <ul class="courseList">

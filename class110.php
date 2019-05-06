@@ -42,12 +42,15 @@
         
         <hr class="breaks">
         
-        <p>Talk about the course</p>
+        <p class="courseDescription">CS 110 is the follow-up course to CS 021.
+            It makes the leap from python to java, and begins to uncover the
+            potential of object oriented programming.
+        </p>        
         
-        <img src="images/110final1.png" alt="">
+        <img src="images/110final1.png" alt="Tetris Screenshot">
         
         
-        <a href="courses.php">Back to Courses</a>
+        <a class="backCourse" href="courses.php">Back to Courses</a>
         
         
         <footer class="footer">

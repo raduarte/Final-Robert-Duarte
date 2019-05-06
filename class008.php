@@ -44,11 +44,21 @@
         <hr class="breaks">
 
         
-        <p>Talk about the course</p>
-        <a href="../../../cs008/final/index.php">Final Project</a>
-        <a href="../../../cs008/sitemap.php">Course Sitemap</a>
+        <p class="courseDescription">CS 008 is the introductory course in web
+            development. It covers html, introduces both CSS and php, and teaches
+            the basics of creating websites from the ground up.
+        </p>
         
-        <a href="courses.php">Back to Courses</a>
+        <a class="final" href="../../../cs008/final/index.php">Final Project</a>
+        <p class="finalDesc">This is the final project for CS 008. It is a website for a fake piza
+            company; Papa Mike's 'Za. It was designed by myself, and a partner. 
+            Take a look!</p>
+        
+        
+        <a class="sitemap" href="../../../cs008/sitemap.php">Course Sitemap</a>
+        <p class="sitemapDesc">This is the sitemap for the course. It holds links to every project done throughout the semester.</p>        
+        
+        <a class="backCourse" href="courses.php">Back to Courses</a>
         
         
         <footer class="footer">

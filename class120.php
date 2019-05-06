@@ -42,11 +42,14 @@
         <h1 class="pageTitle">CS 120: Advanced Programming</h1>
         <hr class="breaks">
         
-        <p>talk about the course</p>
+        <p class="courseDescription">CS 120 is the final installment of the CS
+            021 and 110 tree. It switches over to C++, and teaches advanced topics
+            within object oriented programming, such as polymorphism and memory usage.
+        </p>
         
-        <img src="120final1.png" alt="">
+        <img src="120final1.png" alt="Runner Screenshot">
         
-        <a href="courses.php">Back to Courses</a>
+        <a class="backCourse" href="courses.php">Back to Courses</a>
         
         
         <footer class="footer">

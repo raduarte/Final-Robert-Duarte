@@ -28,7 +28,7 @@
                     </div>
                     <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                         <ol class="nav navbar-nav">
-                            <li id="topBar"><h1 class="topBarTitle">Robert Duarte</h1</li>
+                            <li id="topBar">Robert Duarte</li>
                             <li><a href="index.php">Home</a></li>
                             <li class="active"><a href="courses.php">Courses</a></li>
                             <li><a href="profWork.php">Professional Work</a></li> 
@@ -43,11 +43,15 @@
         
         <hr class="breaks">
         
-        <p>talk about the course</p>
+        <p class="courseDescription">CS 205 is a graduation requirement that
+            focuses on the development of large pieces of software. It teaches
+            the difference between 'good code' and 'bad code', and introduces
+            ideas such as development processes and professional documentation.
+        </p>
         
         <img src="205final1.png" alt="">
         
-        <a href="courses.php">Back to Courses</a>
+        <a class="backCourse" href="courses.php">Back to Courses</a>
         
         
         <footer class="footer">
