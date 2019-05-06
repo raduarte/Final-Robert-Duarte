@@ -28,11 +28,11 @@
                     </div>
                     <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                         <ol class="nav navbar-nav">
-                            <li id="topBar">Robert Duarte</li>
+                            <li id="topBar"><a href="index.php">Robert Duarte</a></li>
                             <li><a href="index.php">Home</a></li>
                             <li class="active"><a href="courses.php">Courses</a></li>
                             <li><a href="profWork.php">Professional Work</a></li> 
-                            <li><a href="addWork.php">Additional Work</a></li>
+                            
                            
                         </ol>
                     </div>

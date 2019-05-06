@@ -27,11 +27,11 @@
                     </div>
                     <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                         <ol class="nav navbar-nav">
-                            <li id="topBar">Robert Duarte</li>
+                            <li id="topBar"><a href="index.php">Robert Duarte</a></li>
                             <li><a href="index.php">Home</a></li>
                             <li class="active"><a href="courses.php">Courses</a></li>
                             <li><a href="profWork.php">Professional Work</a></li> 
-                            <li><a href="addWork.php">Additional Work</a></li>
+                    
                            
                         </ol>
                     </div>
@@ -47,7 +47,18 @@
             potential of object oriented programming.
         </p>        
         
-        <img src="images/110final1.png" alt="Tetris Screenshot">
+        <p class="scDesc">The final project for the course was Tetris.
+            Creating this application reinforced all of the topics learned
+            in this course, and pushed my programming abilities to the limit.
+            At the time this project was by far the largest I had ever attempted.
+        </p>
+        
+        <img id="finalSCJava1" src="images/110Final1.PNG" alt="Tetris Screenshot">
+        <p class="scDesc">The project was a success!</p>
+        
+        <img id="finalSCJava2" src="images/110Final2.PNG" alt="Tetris Screenshot">
+        <p class="scDesc">Although there are still some bugs...</p>
+        
         
         
         <a class="backCourse" href="courses.php">Back to Courses</a>

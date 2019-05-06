@@ -28,11 +28,11 @@
                     </div>
                     <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                         <ol class="nav navbar-nav">
-                            <li id="topBar">Robert Duarte</li>
+                            <li id="topBar"><a href="index.php">Robert Duarte</a></li>
                             <li><a href="index.php">Home</a></li>
                             <li class="active"><a href="courses.php">Courses</a></li>
                             <li><a href="profWork.php">Professional Work</a></li> 
-                            <li><a href="addWork.php">Additional Work</a></li>
+                            
                            
                         </ol>
                     </div>
@@ -49,7 +49,15 @@
             ideas such as development processes and professional documentation.
         </p>
         
-        <img src="205final1.png" alt="">
+        <p class="scDesc">The final for this course was Blokus. This project was
+            very large, and challenged me in ways I hadn't been before. Unfortunately,
+            I am unable to gather screenshots of the game in action, but I do have
+            the final presentation in which we went over the whole development process.
+            Check it out!
+        </p>
+        
+        <img id="final205gif" src="images/205final.gif" alt="Gif of the final presentation for the course">
+        <p class="scDesc">The final presentation for the course.</p>
         
         <a class="backCourse" href="courses.php">Back to Courses</a>
         
